@@ -193,6 +193,9 @@ a{
     top: 15px;
     transition: all .5s;
 }
+/* .services__item:nth-child(n+10):before{
+    content: counter(my-counter);
+} */
 
 .services__item:hover{
     border: 1px solid #5A0D67;
